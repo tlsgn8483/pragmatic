@@ -84,4 +84,5 @@ db.sqlite3
 
 .idea/
 
-.pyv
+__pycache__/
+
